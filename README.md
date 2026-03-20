@@ -29,4 +29,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 <!---LeetCode Topics End-->
