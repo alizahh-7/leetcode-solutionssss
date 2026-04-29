@@ -34,12 +34,14 @@
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2141-maximum-running-time-of-n-computers](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2141-maximum-running-time-of-n-computers](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -64,4 +66,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 <!---LeetCode Topics End-->
