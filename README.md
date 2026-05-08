@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/0146-lru-cache/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +56,7 @@
 | ------- | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +77,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 <!---LeetCode Topics End-->
