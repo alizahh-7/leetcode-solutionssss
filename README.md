@@ -34,6 +34,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
@@ -75,6 +76,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
