@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2092-find-all-people-with-secret](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2141-maximum-running-time-of-n-computers](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -72,10 +73,12 @@
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/1306-jump-game-iii/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2092-find-all-people-with-secret](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2092-find-all-people-with-secret/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2092-find-all-people-with-secret](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2092-find-all-people-with-secret/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,9 +93,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/1306-jump-game-iii/) | Medium |
+| [2092-find-all-people-with-secret](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2092-find-all-people-with-secret](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2092-find-all-people-with-secret/) | Hard |
 <!---LeetCode Topics End-->
