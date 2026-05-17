@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [1306-jump-game-iii](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/1306-jump-game-iii/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
@@ -69,6 +70,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1306-jump-game-iii](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/1306-jump-game-iii/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1306-jump-game-iii](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/1306-jump-game-iii/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/alizahh-7/leetcode-solutionssss/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
